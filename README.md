@@ -21,22 +21,26 @@ Before you start, make sure you have installed Node.js and npm on your computer.
 
 - Clone the repository to your local machine:
 
+~~~
 bash git clone https://github.com/IAmTheOnion/Random-Quote-App.git
-
+~~~
 
 - Navigate to the cloned directory:
 
+~~~
 bash cd quotegenerator
-
+~~~
 
 - Install the required dependencies:
 
+~~~
 bash npm install
-
+~~~
 
 - Start the application:
-
+~~~
 bash npm start
+~~~
 
 
 Now, the application should be running on your local server. You can open it by navigating to `http://localhost:3000` in your web browser.
